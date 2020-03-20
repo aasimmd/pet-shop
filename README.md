@@ -1,3 +1,2 @@
 # pet-shop
-d-app to adopt dogs 
-runs on virtual ether
+D-app to adopt dogs. Runs on virtual ether
